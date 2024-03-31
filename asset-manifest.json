@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskmate/static/css/main.859ee1c9.css",
+    "main.js": "/taskmate/static/js/main.d107b8c8.js",
+    "index.html": "/taskmate/index.html",
+    "main.859ee1c9.css.map": "/taskmate/static/css/main.859ee1c9.css.map",
+    "main.d107b8c8.js.map": "/taskmate/static/js/main.d107b8c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859ee1c9.css",
+    "static/js/main.d107b8c8.js"
+  ]
+}
