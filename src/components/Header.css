@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}header{
+    display: inline-flex;
+    justify-content: space-between;
+    height: 7rem;
+
+}
+header img{
+    width: 4.7%;
+    position: absolute;
+    left: 10px;
+    top: 25px;
+    border-radius: 15px;
+}
+header a{
+    text-decoration: none;
+    color: rgb(16, 225, 207);
+    margin-top: 52px;
+    position: absolute;
+    right: 50px
+}

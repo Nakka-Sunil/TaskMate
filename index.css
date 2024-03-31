@@ -1,0 +1,13 @@
+.book-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.book {
+  width: 30%; /* Adjust width as needed */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}

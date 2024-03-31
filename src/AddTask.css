@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.addtask{
+    border: 1px solid black;
+    padding: 17px;
+    box-shadow: 5px 5px 5px 5px rgba(233, 228, 228, 0.855);
+    border: none;
+    margin: auto;
+    border-radius: 5px;
+    max-width: 100vh;
+    margin-bottom: 20px;
+}
+.formelements{
+    display: flex;
+    justify-content: space-around;
+}
+.Submit{
+    background-color: green;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+    border-style: none;
+}
+.reset{
+    border: 1px solid black;
+    background-color: rgb(252, 244, 8);
+    border-radius: 5px;
+    padding: 5px;
+    border-style: none;
+    color: white;
+}
+form input{
+    border-radius: 5px;
+}

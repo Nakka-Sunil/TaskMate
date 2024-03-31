@@ -1,0 +1,49 @@
+.App{
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+div ul{
+    margin: 30px;
+    border: 3px solid aliceblue;
+    box-shadow: 3px 3px 3px rgb(224, 218, 218);
+    border-radius: 10px;
+    padding: 15px;
+}
+div ul li{
+    border: 2px solid gainsboro;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 3px rgba(251, 249, 249, 0.985);
+    border-top: none;
+    padding: 10px;
+    border-radius: 5px;
+    list-style: none;
+    text-align: left;
+}
+ul li button{
+    float: right;
+    margin-right: 40px;
+    padding: 3px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.yes{
+    box-shadow: rgba(8, 242, 55, 0.914);
+}
+.no{
+    box-shadow: rgba(236, 10, 33, 0.971);
+}
+.toggle{
+    background-color: rgb(38, 38, 244);
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
